@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Carnwenhan", augments={'Path: A',}},
+    sub={ name="Ternion Dagger +1", augments={'Path: A',}},
+    range="Daurdabla",
+    head="Brioso Roundlet +3",
+    body="Fili Hongreline +3",
+    hands="Fili Manchettes +3",
+    legs="Inyanga Shalwar +2",
+    feet={ name="Bihu Slippers +3", augments={'Enhances "Nightingale" effect',}},
+    neck="Mnbw. Whistle +1",
+    waist={ name="Acuity Belt +1", augments={'Path: A',}},
+    left_ear="Gersemi Earring",
+    right_ear="Regal Earring",
+    left_ring="Stikini Ring +1",
+    right_ring="Stikini Ring",
+    back={ name="Intarabus's Cape", augments={'CHR+20','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+10','"Fast Cast"+10','Damage taken-5%',}},
+}

@@ -1,0 +1,16 @@
+sets.exported={
+    main={ name="Carnwenhan", augments={'Path: A',}},
+    range="Gjallarhorn",
+    head="Brioso Roundlet +3",
+    body="Fili Hongreline +3",
+    hands="Fili Manchettes +3",
+    legs="Fili Rhingrave +3",
+    feet="Brioso Slippers +3",
+    neck="Mnbw. Whistle +1",
+    waist={ name="Acuity Belt +1", augments={'Path: A',}},
+    left_ear="Regal Earring",
+    right_ear={ name="Fili Earring +1", augments={'System: 1 ID: 1676 Val: 0','Accuracy+12','Mag. Acc.+12','Damage taken-4%',}},
+    left_ring="Stikini Ring +1",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Intarabus's Cape", augments={'CHR+20','Mag. Acc+20 /Mag. Dmg.+20','Mag. Acc.+10','"Fast Cast"+10','Damage taken-5%',}},
+}

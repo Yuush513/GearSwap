@@ -1,0 +1,16 @@
+sets.exported={
+    main={ name="Bunzi's Rod", augments={'Path: A',}},
+    sub="Ammurapi Shield",
+    range="Ullr",
+    body="Crepuscular Cloak",
+    hands="Leth. Ganth. +2",
+    legs="Leth. Fuseau +2",
+    feet="Leth. Houseaux +2",
+    neck={ name="Dls. Torque +2", augments={'Path: A',}},
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Snotra Earring",
+    right_ear="Malignance Earring",
+    left_ring="Stikini Ring +1",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Aurist's Cape +1", augments={'Path: A',}},
+}

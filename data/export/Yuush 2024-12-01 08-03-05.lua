@@ -1,0 +1,17 @@
+sets.exported={
+    main="Shining One",
+    sub="Utu Grip",
+    ammo="Yetshila",
+    head={ name="Blistering Sallet +1", augments={'Path: A',}},
+    body="Sakpata's Plate",
+    hands="Boii Mufflers +3",
+    legs="Boii Cuisses +3",
+    feet="Boii Calligae +2",
+    neck={ name="War. Beads +2", augments={'Path: A',}},
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Thrud Earring",
+    right_ear={ name="Boii Earring +1", augments={'System: 1 ID: 1676 Val: 0','Accuracy+15','Mag. Acc.+15','Crit.hit rate+5',}},
+    left_ring="Sroda Ring",
+    right_ring="Cornelia's Ring",
+    back={ name="Cichol's Mantle", augments={'STR+20','Accuracy+20 Attack+20','STR+10','Weapon skill damage +10%','Phys. dmg. taken-10%',}},
+}

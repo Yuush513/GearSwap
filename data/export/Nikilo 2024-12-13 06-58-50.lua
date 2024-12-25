@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Yagrush", augments={'Path: A',}},
+    sub="Ammurapi Shield",
+    ammo="Impatiens",
+    head="Ebers Cap +3",
+    body="Bunzi's Robe",
+    hands="Ebers Mitts +3",
+    legs="Ebers Pant. +3",
+    feet="Ebers Duckbills +3",
+    neck={ name="Clr. Torque +2", augments={'Path: A',}},
+    waist="Witful Belt",
+    left_ear="Etiolation Earring",
+    right_ear="Malignance Earring",
+    left_ring="Lebeche Ring",
+    right_ring="Gurebu's Ring",
+    back={ name="Alaunus's Cape", augments={'MND+20','Eva.+20 /Mag. Eva.+20','Mag. Evasion+10','Haste+10','Damage taken-5%',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Shining One",
+    sub="Utu Grip",
+    ammo={ name="Seeth. Bomblet +1", augments={'Path: A',}},
+    head="Nyame Helm",
+    body={ name="Nyame Mail", augments={'Path: B',}},
+    hands={ name="Nyame Gauntlets", augments={'Path: B',}},
+    legs={ name="Nyame Flanchard", augments={'Path: B',}},
+    feet={ name="Nyame Sollerets", augments={'Path: B',}},
+    neck="Sibyl Scarf",
+    waist="Eschan Stone",
+    left_ear="Thrud Earring",
+    right_ear="Friomisi Earring",
+    left_ring="Regal Ring",
+    right_ring="Cornelia's Ring",
+    back={ name="Cichol's Mantle", augments={'STR+20','Accuracy+20 Attack+20','STR+10','Weapon skill damage +10%','Phys. dmg. taken-10%',}},
+}

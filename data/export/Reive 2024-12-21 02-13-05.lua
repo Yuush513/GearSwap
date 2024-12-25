@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Marin Staff +1", augments={'Path: A',}},
+    sub="Enki Strap",
+    ammo="Staunch Tathlum",
+    head="Volte Beret",
+    body="Wicce Coat +2",
+    hands="Wicce Gloves +2",
+    legs={ name="Nyame Flanchard", augments={'Path: B',}},
+    feet="Volte Gaiters",
+    neck="Elite Royal Collar",
+    waist={ name="Shinjutsu-no-Obi +1", augments={'Path: A',}},
+    left_ear="Lugalbanda Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Stikini Ring +1",
+    right_ring="Stikini Ring +1",
+    back={ name="Taranus's Cape", augments={'MP+60','Eva.+20 /Mag. Eva.+20','MP+20','"Fast Cast"+10','Damage taken-5%',}},
+}

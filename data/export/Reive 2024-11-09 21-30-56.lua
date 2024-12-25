@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Bunzi's Rod", augments={'Path: A',}},
+    sub="Ammurapi Shield",
+    ammo={ name="Ghastly Tathlum +1", augments={'Path: A',}},
+    head="Leth. Chappel +2",
+    body={ name="Amalric Doublet +1", augments={'MP+80','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    hands={ name="Amalric Gages +1", augments={'INT+12','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    legs="Leth. Fuseau +2",
+    feet="Leth. Houseaux +2",
+    neck="Sibyl Scarf",
+    waist={ name="Acuity Belt +1", augments={'Path: A',}},
+    left_ear="Regal Earring",
+    right_ear="Malignance Earring",
+    left_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    right_ring="Freke Ring",
+    back={ name="Sucellos's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','INT+10','"Mag.Atk.Bns."+10',}},
+}

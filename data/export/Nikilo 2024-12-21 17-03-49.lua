@@ -1,0 +1,16 @@
+sets.exported={
+    main={ name="Musa", augments={'Path: C',}},
+    ammo="Homiliary",
+    head="Arbatel Bonnet +2",
+    body={ name="Telchine Chas.", augments={'Mag. Evasion+25','"Conserve MP"+5','Enh. Mag. eff. dur. +10',}},
+    hands={ name="Telchine Gloves", augments={'Mag. Evasion+23','"Conserve MP"+4','Enh. Mag. eff. dur. +10',}},
+    legs={ name="Telchine Braconi", augments={'Mag. Evasion+5','"Conserve MP"+5','Enh. Mag. eff. dur. +10',}},
+    feet={ name="Telchine Pigaches", augments={'Mag. Evasion+11','"Conserve MP"+4','Enh. Mag. eff. dur. +10',}},
+    neck="Elite Royal Collar",
+    waist="Embla Sash",
+    left_ear="Lugalbanda Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Shneddick Ring",
+    right_ring="Defending Ring",
+    back={ name="Bookworm's Cape", augments={'INT+4','MND+1','Helix eff. dur. +11','"Regen" potency+10',}},
+}

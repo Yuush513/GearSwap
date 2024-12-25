@@ -1,0 +1,16 @@
+sets.exported={
+    main={ name="Grioavolr", augments={'"Fast Cast"+6','MP+106','Mag. Acc.+2','"Mag.Atk.Bns."+16',}},
+    sub="Enki Strap",
+    head="Ebers Cap +3",
+    body="Inyanga Jubbah +2",
+    hands={ name="Fanatic Gloves", augments={'MP+50','Healing magic skill +10','"Conserve MP"+7','"Fast Cast"+7',}},
+    legs={ name="Kaykaus Tights +1", augments={'INT+12','"Mag.Atk.Bns."+20','Enmity-6',}},
+    feet="Volte Gaiters",
+    neck={ name="Clr. Torque +2", augments={'Path: A',}},
+    waist="Witful Belt",
+    left_ear="Malignance Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Lebeche Ring",
+    right_ring="Kishar Ring",
+    back="Perimede Cape",
+}

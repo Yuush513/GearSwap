@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub={ name="Centovente", augments={'TP Bonus +1000',}},
+    range={ name="Linos", augments={'Mag. Evasion+15','"Regen"+1','HP+19',}},
+    head="Bunzi's Hat",
+    body="Bunzi's Robe",
+    hands="Bunzi's Gloves",
+    legs="Bunzi's Pants",
+    feet="Bunzi's Sabots",
+    neck="Yngvi Choker",
+    waist="Carrier's Sash",
+    left_ear="Eabani Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Shneddick Ring",
+    right_ring="Defending Ring",
+    back={ name="Intarabus's Cape", augments={'HP+60','Eva.+20 /Mag. Eva.+20','Mag. Evasion+10','Enmity-10','Mag. Evasion+15',}},
+}

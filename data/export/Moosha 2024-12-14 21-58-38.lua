@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub={ name="Centovente", augments={'TP Bonus +1000',}},
+    range={ name="Linos", augments={'"Mag.Atk.Bns."+20','Weapon skill damage +3%','INT+8',}},
+    head={ name="Nyame Helm", augments={'Path: B',}},
+    body="Nyame Mail",
+    hands={ name="Nyame Gauntlets", augments={'Path: B',}},
+    legs={ name="Nyame Flanchard", augments={'Path: B',}},
+    feet={ name="Nyame Sollerets", augments={'Path: B',}},
+    neck="Baetyl Pendant",
+    waist={ name="Acuity Belt +1", augments={'Path: A',}},
+    left_ear={ name="Moonshade Earring", augments={'"Mag.Atk.Bns."+4','TP Bonus +250',}},
+    right_ear="Regal Earring",
+    left_ring="Cornelia's Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Intarabus's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','INT+10','Weapon skill damage +10%',}},
+}

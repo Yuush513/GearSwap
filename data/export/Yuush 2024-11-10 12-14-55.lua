@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Tizona", augments={'Path: A',}},
+    sub="Bunzi's Rod",
+    ammo="Egoist's Tathlum",
+    head={ name="Telchine Cap", augments={'Mag. Evasion+24','"Cure" potency +8%','HP+50',}},
+    body={ name="Telchine Chas.", augments={'Mag. Evasion+22','"Cure" potency +8%','HP+49',}},
+    hands={ name="Telchine Gloves", augments={'Mag. Evasion+21','"Cure" potency +8%','HP+50',}},
+    legs={ name="Telchine Braconi", augments={'Mag. Evasion+20','"Cure" potency +8%','HP+50',}},
+    feet={ name="Telchine Pigaches", augments={'Mag. Evasion+21','"Cure" potency +8%','HP+50',}},
+    neck={ name="Unmoving Collar +1", augments={'Path: A',}},
+    waist="Plat. Mog. Belt",
+    left_ear="Tuisto Earring",
+    right_ear={ name="Odnowa Earring +1", augments={'Path: A',}},
+    left_ring="Meridian Ring",
+    right_ring={ name="Gelatinous Ring +1", augments={'Path: A',}},
+    back="Moonlight Cape",
+}

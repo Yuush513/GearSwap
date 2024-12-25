@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Chango", augments={'Path: A',}},
+    sub="Utu Grip",
+    ammo="Yetshila",
+    head="Boii Mask +2",
+    body="Sakpata's Plate",
+    hands="Sakpata's Gauntlets",
+    legs="Boii Cuisses +2",
+    feet="Boii Calligae +2",
+    neck={ name="War. Beads +2", augments={'Path: A',}},
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Schere Earring",
+    right_ear={ name="Boii Earring +1", augments={'System: 1 ID: 1676 Val: 0','Accuracy+15','Mag. Acc.+15','Crit.hit rate+5',}},
+    left_ring="Sroda Ring",
+    right_ring="Niqmaddu Ring",
+    back={ name="Cichol's Mantle", augments={'STR+20','Accuracy+20 Attack+20','Crit.hit rate+10',}},
+}

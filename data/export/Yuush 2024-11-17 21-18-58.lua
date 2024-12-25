@@ -1,0 +1,17 @@
+sets.exported={
+    main="Idris",
+    sub="Ammurapi Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head={ name="Telchine Cap", augments={'Mag. Evasion+24','Spell interruption rate down -9%','Enh. Mag. eff. dur. +10',}},
+    body={ name="Telchine Chas.", augments={'Mag. Evasion+19','Spell interruption rate down -5%','Enh. Mag. eff. dur. +10',}},
+    hands={ name="Telchine Gloves", augments={'Mag. Evasion+18','Pet: "Regen"+3','Enh. Mag. eff. dur. +10',}},
+    legs={ name="Telchine Braconi", augments={'Mag. Evasion+18','Spell interruption rate down -10%','Enh. Mag. eff. dur. +10',}},
+    feet={ name="Telchine Pigaches", augments={'Mag. Evasion+18','Spell interruption rate down -2%','Enh. Mag. eff. dur. +10',}},
+    neck="Incanter's Torque",
+    waist="Witful Belt",
+    left_ear="Mimir Earring",
+    right_ear="Andoaa Earring",
+    left_ring="Defending Ring",
+    right_ring="Stikini Ring",
+    back={ name="Nantosuelta's Cape", augments={'HP+60','Eva.+20 /Mag. Eva.+20','Pet: "Regen"+10','Pet: "Regen"+5',}},
+}

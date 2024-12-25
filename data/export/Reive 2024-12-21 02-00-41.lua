@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Marin Staff +1", augments={'Path: A',}},
+    sub="Enki Strap",
+    ammo="Sroda Tathlum",
+    head="Wicce Petasos +2",
+    body="Wicce Coat +2",
+    hands="Wicce Gloves +2",
+    legs="Wicce Chausses +2",
+    feet="Wicce Sabots +2",
+    neck={ name="Src. Stole +2", augments={'Path: A',}},
+    waist={ name="Acuity Belt +1", augments={'Path: A',}},
+    left_ear="Malignance Earring",
+    right_ear="Regal Earring",
+    left_ring="Freke Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Taranus's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','INT+10','"Mag.Atk.Bns."+10',}},
+}

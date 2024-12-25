@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub={ name="Centovente", augments={'TP Bonus +1000',}},
+    range={ name="Linos", augments={'Accuracy+20','"Store TP"+4','Quadruple Attack +3',}},
+    head="Fili Calot +3",
+    body="Ashera Harness",
+    hands="Bunzi's Gloves",
+    legs="Fili Rhingrave +3",
+    feet="Volte Spats",
+    neck={ name="Bard's Charm +2", augments={'Path: A',}},
+    waist="Reiki Yotai",
+    left_ear="Eabani Earring",
+    right_ear="Telos Earring",
+    left_ring="Moonlight Ring",
+    right_ring="Moonlight Ring",
+    back={ name="Intarabus's Cape", augments={'DEX+20','Accuracy+20 Attack+20','DEX+10','"Dbl.Atk."+10','Damage taken-5%',}},
+}

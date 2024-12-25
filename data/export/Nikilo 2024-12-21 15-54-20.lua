@@ -1,0 +1,17 @@
+sets.exported={
+    main="Chatoyant Staff",
+    sub="Khonsu",
+    ammo="Staunch Tathlum +1",
+    head={ name="Kaykaus Mitra +1", augments={'MP+80','"Cure" spellcasting time -7%','Enmity-6',}},
+    body="Arbatel Gown +2",
+    hands={ name="Nyame Gauntlets", augments={'Path: B',}},
+    legs="Acad. Pants +3",
+    feet={ name="Kaykaus Boots +1", augments={'Mag. Acc.+20','"Cure" potency +6%','"Fast Cast"+4',}},
+    neck="Elite Royal Collar",
+    waist="Hachirin-no-Obi",
+    left_ear="Magnetic Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Defending Ring",
+    right_ring="Gurebu's Ring",
+    back={ name="Lugh's Cape", augments={'MND+20','Eva.+20 /Mag. Eva.+20','Mag. Evasion+10','Enmity-10','Damage taken-5%',}},
+}

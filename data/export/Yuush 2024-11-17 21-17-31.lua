@@ -1,0 +1,17 @@
+sets.exported={
+    main="Bunzi's Rod",
+    sub="Ammurapi Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head={ name="Vanya Hood", augments={'Healing magic skill +20','"Cure" spellcasting time -7%','Magic dmg. taken -3',}},
+    body={ name="Vanya Robe", augments={'Healing magic skill +20','"Cure" spellcasting time -7%','Magic dmg. taken -3',}},
+    hands={ name="Telchine Gloves", augments={'Mag. Evasion+21','"Cure" potency +8%','HP+50',}},
+    legs={ name="Vanya Slops", augments={'Healing magic skill +20','"Cure" spellcasting time -7%','Magic dmg. taken -3',}},
+    feet={ name="Vanya Clogs", augments={'Healing magic skill +20','"Cure" spellcasting time -7%','Magic dmg. taken -3',}},
+    neck="Incanter's Torque",
+    waist="Witful Belt",
+    left_ear="Magnetic Earring",
+    right_ear="Mendi. Earring",
+    left_ring="Defending Ring",
+    right_ring="Stikini Ring",
+    back={ name="Nantosuelta's Cape", augments={'HP+60','Eva.+20 /Mag. Eva.+20','Pet: "Regen"+10','Pet: "Regen"+5',}},
+}

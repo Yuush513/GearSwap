@@ -1,0 +1,16 @@
+sets.exported={
+    main="Daybreak",
+    sub="Ammurapi Shield",
+    ammo="Pemphredo Tathlum",
+    body={ name="Cohort Cloak +1", augments={'Path: A',}},
+    hands="Bunzi's Gloves",
+    legs={ name="Kaykaus Tights +1", augments={'INT+12','"Mag.Atk.Bns."+20','Enmity-6',}},
+    feet="Bunzi's Sabots",
+    neck="Mizu. Kubikazari",
+    waist="Sacro Cord",
+    left_ear="Malignance Earring",
+    right_ear="Regal Earring",
+    left_ring="Freke Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Alaunus's Cape", augments={'MND+20','Mag. Acc+20 /Mag. Dmg.+20','MND+10','"Mag.Atk.Bns."+10',}},
+}

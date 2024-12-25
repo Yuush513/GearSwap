@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Marin Staff +1", augments={'Path: A',}},
+    sub="Enki Strap",
+    ammo="Impatiens",
+    head={ name="Amalric Coif +1", augments={'MP+80','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    body="Zendik Robe",
+    hands={ name="Agwu's Gages", augments={'Path: A',}},
+    legs="Agwu's Slops",
+    feet={ name="Amalric Nails +1", augments={'MP+80','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    neck="Orunmila's Torque",
+    waist="Witful Belt",
+    left_ear="Malignance Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Lebeche Ring",
+    right_ring="Kishar Ring",
+    back={ name="Taranus's Cape", augments={'MP+60','Eva.+20 /Mag. Eva.+20','MP+20','"Fast Cast"+10','Damage taken-5%',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Idris",
+    sub="Genmei Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head={ name="Amalric Coif +1", augments={'MP+80','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    body={ name="Merlinic Jubbah", augments={'"Fast Cast"+6','"Mag.Atk.Bns."+11',}},
+    hands="Agwu's Gages",
+    legs="Geo. Pants +1",
+    feet={ name="Merlinic Crackows", augments={'Mag. Acc.+23 "Mag.Atk.Bns."+23','"Fast Cast"+6','INT+3','Mag. Acc.+11',}},
+    neck="Orunmila's Torque",
+    waist="Witful Belt",
+    left_ear="Loquac. Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Defending Ring",
+    right_ring="Kishar Ring",
+    back={ name="Nantosuelta's Cape", augments={'MND+20','Mag. Acc+20 /Mag. Dmg.+20','"Fast Cast"+10',}},
+}

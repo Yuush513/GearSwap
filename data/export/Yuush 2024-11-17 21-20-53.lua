@@ -1,0 +1,17 @@
+sets.exported={
+    main="Bunzi's Rod",
+    sub="Ammurapi Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head="Azimuth Hood +2",
+    body="Geomancy Tunic +2",
+    hands="Geo. Mitaines +3",
+    legs="Azimuth Tights +2",
+    feet={ name="Bagua Sandals +3", augments={'Enhances "Radial Arcana" effect',}},
+    neck="Incanter's Torque",
+    waist="Luminary Sash",
+    left_ear="Regal Earring",
+    right_ear="Malignance Earring",
+    left_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    right_ring="Stikini Ring",
+    back={ name="Nantosuelta's Cape", augments={'MND+20','Mag. Acc+20 /Mag. Dmg.+20','"Fast Cast"+10',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub="Genmei Shield",
+    range={ name="Linos", augments={'Mag. Evasion+15','"Regen"+2','INT+6 MND+6',}},
+    head="Fili Calot +2",
+    body="Fili Hongreline +2",
+    hands={ name="Bunzi's Gloves", augments={'Path: A',}},
+    legs="Fili Rhingrave +2",
+    feet={ name="Nyame Sollerets", augments={'Path: B',}},
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Carrier's Sash",
+    left_ear="Eabani Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Defending Ring",
+    right_ring="Shneddick Ring +1",
+    back={ name="Intarabus's Cape", augments={'HP+60','Eva.+20 /Mag. Eva.+20','Mag. Evasion+10','Occ. inc. resist. to stat. ailments+10',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Musa", augments={'Path: C',}},
+    sub="Enki Strap",
+    ammo="Homiliary",
+    head="Arbatel Bonnet +2",
+    body="Arbatel Gown +2",
+    hands={ name="Nyame Gauntlets", augments={'Path: B',}},
+    legs="Arbatel Pants +2",
+    feet={ name="Nyame Sollerets", augments={'Path: B',}},
+    neck="Elite Royal Collar",
+    waist="Carrier's Sash",
+    left_ear="Lugalbanda Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Shneddick Ring",
+    right_ring="Gurebu's Ring",
+    back={ name="Lugh's Cape", augments={'MP+60','Eva.+20 /Mag. Eva.+20','MP+20','Enmity-10','Occ. inc. resist. to stat. ailments+10',}},
+}

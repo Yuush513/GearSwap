@@ -1,0 +1,17 @@
+sets.exported={
+    main="Idris",
+    sub="Ammurapi Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head="Azimuth Hood +2",
+    body="Azimuth Coat +2",
+    hands="Azimuth Gloves +1",
+    legs="Azimuth Tights +2",
+    feet="Azimuth Gaiters +2",
+    neck="Incanter's Torque",
+    waist="Luminary Sash",
+    left_ear="Magnetic Earring",
+    right_ear="Mendi. Earring",
+    left_ring="Defending Ring",
+    right_ring={ name="Gelatinous Ring +1", augments={'Path: A',}},
+    back={ name="Lifestream Cape", augments={'Geomancy Skill +10','Indi. eff. dur. +19','Pet: Damage taken -1%',}},
+}

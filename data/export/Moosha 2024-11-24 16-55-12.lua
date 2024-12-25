@@ -1,0 +1,15 @@
+sets.exported={
+    range={ name="Linos", augments={'Mag. Evasion+15','"Regen"+1','HP+19',}},
+    head="Fili Calot +2",
+    body="Fili Hongreline +2",
+    hands="Bunzi's Gloves",
+    legs="Fili Rhingrave +2",
+    feet={ name="Nyame Sollerets", augments={'Path: B',}},
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Carrier's Sash",
+    left_ear="Eabani Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Shneddick Ring",
+    right_ring="Defending Ring",
+    back={ name="Intarabus's Cape", augments={'HP+60','Eva.+20 /Mag. Eva.+20','Mag. Evasion+10','Enmity-10','Mag. Evasion+15',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Tizona", augments={'Path: A',}},
+    sub="Bunzi's Rod",
+    ammo="Staunch Tathlum +1",
+    head="Nyame Helm",
+    body="Nyame Mail",
+    hands="Nyame Gauntlets",
+    legs="Nyame Flanchard",
+    feet="Nyame Sollerets",
+    neck={ name="Bathy Choker +1", augments={'Path: A',}},
+    waist="Carrier's Sash",
+    left_ear="Eabani Earring",
+    right_ear="Infused Earring",
+    left_ring="Defending Ring",
+    right_ring="Shneddick Ring +1",
+    back={ name="Rosmerta's Cape", augments={'AGI+20','Eva.+20 /Mag. Eva.+20','Evasion+10','"Fast Cast"+10','Evasion+15',}},
+}

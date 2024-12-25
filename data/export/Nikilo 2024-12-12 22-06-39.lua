@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Yagrush", augments={'Path: A',}},
+    sub="Genmei Shield",
+    ammo="Oshasha's Treatise",
+    head="Bunzi's Hat",
+    body="Ebers Bliaut +3",
+    hands="Bunzi's Gloves",
+    legs="Ebers Pant. +3",
+    feet="Ebers Duckbills +3",
+    neck="Lissome Necklace",
+    waist="Cornelia's Belt",
+    left_ear="Telos Earring",
+    right_ear="Cessance Earring",
+    left_ring="Petrov Ring",
+    right_ring="Ilabrat Ring",
+    back={ name="Alaunus's Cape", augments={'DEX+20','Accuracy+20 Attack+20','Accuracy+10','"Dbl.Atk."+10','Phys. dmg. taken-10%',}},
+}

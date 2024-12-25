@@ -1,0 +1,17 @@
+sets.exported={
+    main="Maxentius",
+    sub="Bunzi's Rod",
+    ammo="Pemphredo Tathlum",
+    head="Assim. Keffiyeh +3",
+    body="Malignance Tabard",
+    hands={ name="Herculean Gloves", augments={'STR+8','Enmity-4','"Treasure Hunter"+2','Mag. Acc.+1 "Mag.Atk.Bns."+1',}},
+    legs={ name="Herculean Trousers", augments={'Phys. dmg. taken -1%','Pet: "Subtle Blow"+5','"Treasure Hunter"+2','Accuracy+2 Attack+2',}},
+    feet="Hashi. Basmak +2",
+    neck={ name="Mirage Stole +2", augments={'Path: A',}},
+    waist={ name="Acuity Belt +1", augments={'Path: A',}},
+    left_ear="Digni. Earring",
+    right_ear="Regal Earring",
+    left_ring="Defending Ring",
+    right_ring="Shneddick Ring +1",
+    back={ name="Rosmerta's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','INT+10','"Mag.Atk.Bns."+10',}},
+}

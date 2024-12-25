@@ -1,0 +1,17 @@
+sets.exported={
+    main="Mpaca's Staff",
+    sub="Khonsu",
+    ammo="Homiliary",
+    head="Volte Beret",
+    body="Shamash Robe",
+    hands={ name="Nyame Gauntlets", augments={'Path: B',}},
+    legs={ name="Nyame Flanchard", augments={'Path: B',}},
+    feet="Volte Gaiters",
+    neck="Elite Royal Collar",
+    waist="Carrier's Sash",
+    left_ear="Lugalbanda Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Shneddick Ring",
+    right_ring="Defending Ring",
+    back={ name="Bookworm's Cape", augments={'INT+4','MND+1','Helix eff. dur. +11','"Regen" potency+10',}},
+}

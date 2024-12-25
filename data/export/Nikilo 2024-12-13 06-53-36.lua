@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Yagrush", augments={'Path: A',}},
+    sub="Ammurapi Shield",
+    ammo="Impatiens",
+    head="Ebers Cap +3",
+    body="Inyanga Jubbah +2",
+    hands={ name="Fanatic Gloves", augments={'MP+50','Healing magic skill +10','"Conserve MP"+7','"Fast Cast"+7',}},
+    legs="Ebers Pant. +3",
+    feet="Volte Gaiters",
+    neck={ name="Clr. Torque +2", augments={'Path: A',}},
+    waist="Witful Belt",
+    left_ear="Malignance Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Lebeche Ring",
+    right_ring="Kishar Ring",
+    back={ name="Alaunus's Cape", augments={'MND+20','Eva.+20 /Mag. Eva.+20','Mag. Evasion+10','Haste+10','Damage taken-5%',}},
+}

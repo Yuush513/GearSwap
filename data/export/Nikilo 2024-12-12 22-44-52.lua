@@ -1,0 +1,17 @@
+sets.exported={
+    main="Beneficus",
+    sub="Ammurapi Shield",
+    ammo="Staunch Tathlum +1",
+    head="Ebers Cap +3",
+    body="Ebers Bliaut +3",
+    hands="Ebers Mitts +3",
+    legs={ name="Piety Pantaln. +3", augments={'Enhances "Afflatus Misery" effect',}},
+    feet="Ebers Duckbills +3",
+    neck="Elite Royal Collar",
+    waist="Embla Sash",
+    left_ear="Etiolation Earring",
+    right_ear={ name="Ebers Earring +1", augments={'System: 1 ID: 1676 Val: 0','Accuracy+12','Mag. Acc.+12','Damage taken-4%',}},
+    left_ring="Defending Ring",
+    right_ring="Gurebu's Ring",
+    back={ name="Alaunus's Cape", augments={'MND+20','Eva.+20 /Mag. Eva.+20','Mag. Evasion+10','Haste+10','Mag. Evasion+15',}},
+}

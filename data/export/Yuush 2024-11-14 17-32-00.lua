@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Tizona", augments={'Path: A',}},
+    sub={ name="Machaera +2", augments={'TP Bonus +1000',}},
+    ammo="Pemphredo Tathlum",
+    head="Hashishin Kavuk +2",
+    body="Hashishin Mintan +2",
+    hands="Hashi. Bazu. +2",
+    legs="Hashishin Tayt +2",
+    feet="Hashi. Basmak +2",
+    neck="Sibyl Scarf",
+    waist="Sacro Cord",
+    left_ear="Regal Earring",
+    right_ear="Friomisi Earring",
+    left_ring="Shiva Ring +1",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Rosmerta's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','INT+10','"Mag.Atk.Bns."+10',}},
+}

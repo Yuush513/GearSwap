@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Genmei Shield",
+    ammo="Staunch Tathlum +1",
+    head="Bunzi's Hat",
+    body="Ebers Bliaut +3",
+    hands="Bunzi's Gloves",
+    legs="Ebers Pant. +3",
+    feet="Ebers Duckbills +3",
+    neck="Elite Royal Collar",
+    waist="Carrier's Sash",
+    left_ear="Etiolation Earring",
+    right_ear={ name="Ebers Earring +1", augments={'System: 1 ID: 1676 Val: 0','Accuracy+12','Mag. Acc.+12','Damage taken-4%',}},
+    left_ring="Shneddick Ring",
+    right_ring="Gurebu's Ring",
+    back={ name="Alaunus's Cape", augments={'HP+60','Eva.+20 /Mag. Eva.+20','Mag. Evasion+10','Enmity-10','Mag. Evasion+15',}},
+}

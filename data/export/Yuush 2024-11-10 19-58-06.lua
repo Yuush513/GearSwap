@@ -1,0 +1,17 @@
+sets.exported={
+    main="Idris",
+    sub="Genbu's Shield",
+    range={ name="Dunna", augments={'MP+20','Mag. Acc.+10','"Fast Cast"+3',}},
+    head={ name="Telchine Cap", augments={'Mag. Evasion+22','Pet: "Regen"+3','Pet: Damage taken -4%',}},
+    body="Shamash Robe",
+    hands="Geo. Mitaines +3",
+    legs="Nyame Flanchard",
+    feet={ name="Bagua Sandals +2", augments={'Enhances "Radial Arcana" effect',}},
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Carrier's Sash",
+    left_ear="Lugalbanda Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Defending Ring",
+    right_ring="Shneddick Ring +1",
+    back={ name="Nantosuelta's Cape", augments={'HP+60','Eva.+20 /Mag. Eva.+20','Pet: "Regen"+10','Pet: "Regen"+5',}},
+}

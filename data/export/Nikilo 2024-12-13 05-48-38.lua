@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Genmei Shield",
+    ammo="Staunch Tathlum +1",
+    head={ name="Kaykaus Mitra +1", augments={'MP+80','"Cure" spellcasting time -7%','Enmity-6',}},
+    body="Ebers Bliaut +3",
+    hands="Theophany Mitts +3",
+    legs="Ebers Pant. +3",
+    feet={ name="Kaykaus Boots +1", augments={'MP+80','"Cure" spellcasting time -7%','Enmity-6',}},
+    neck={ name="Clr. Torque +2", augments={'Path: A',}},
+    waist="Carrier's Sash",
+    left_ear="Etiolation Earring",
+    right_ear="Glorious Earring",
+    left_ring="Defending Ring",
+    right_ring="Gurebu's Ring",
+    back={ name="Alaunus's Cape", augments={'MND+20','Eva.+20 /Mag. Eva.+20','Mag. Evasion+10','Haste+10','Damage taken-5%',}},
+}

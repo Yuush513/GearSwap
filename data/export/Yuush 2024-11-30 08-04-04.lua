@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Chango", augments={'Path: A',}},
+    sub="Utu Grip",
+    ammo="Knobkierrie",
+    head="Boii Mask +2",
+    body="Boii Lorica +2",
+    hands="Boii Mufflers +3",
+    legs="Boii Cuisses +2",
+    feet="Boii Calligae +2",
+    neck="Fotia Gorget",
+    waist="Fotia Belt",
+    left_ear="Digni. Earring",
+    right_ear={ name="Boii Earring +1", augments={'System: 1 ID: 1676 Val: 0','Accuracy+15','Mag. Acc.+15','Crit.hit rate+5',}},
+    left_ring="Cornelia's Ring",
+    right_ring="Flamma Ring",
+    back={ name="Cichol's Mantle", augments={'STR+20','Accuracy+20 Attack+20','STR+10','Weapon skill damage +10%','Phys. dmg. taken-10%',}},
+}

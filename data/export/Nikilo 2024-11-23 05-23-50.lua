@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Genmei Shield",
+    ammo="Staunch Tathlum +1",
+    head="Volte Beret",
+    body="Shamash Robe",
+    hands="Bunzi's Gloves",
+    legs="Ebers Pant. +2",
+    feet="Ebers Duckbills +2",
+    neck="Yngvi Choker",
+    waist="Carrier's Sash",
+    left_ear="Eabani Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Shneddick Ring",
+    right_ring="Wuji Ring",
+    back={ name="Alaunus's Cape", augments={'HP+60','Eva.+20 /Mag. Eva.+20','Mag. Evasion+10','Enmity-10','Mag. Evasion+15',}},
+}

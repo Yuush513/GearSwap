@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Musa", augments={'Path: C',}},
+    sub="Khonsu",
+    ammo="Staunch Tathlum +1",
+    head="Arbatel Bonnet +2",
+    body="Arbatel Gown +2",
+    hands="Arbatel Bracers +2",
+    legs="Arbatel Pants +2",
+    feet="Arbatel Loafers +2",
+    neck="Elite Royal Collar",
+    waist="Embla Sash",
+    left_ear="Lugalbanda Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Shneddick Ring",
+    right_ring="Defending Ring",
+    back={ name="Lugh's Cape", augments={'MP+60','Eva.+20 /Mag. Eva.+20','MP+20','Enmity-10','Phys. dmg. taken-10%',}},
+}

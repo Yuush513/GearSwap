@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Yagrush", augments={'Path: A',}},
+    sub="Ammurapi Shield",
+    ammo="Pemphredo Tathlum",
+    head="Ebers Cap +3",
+    body="Ebers Bliaut +3",
+    hands={ name="Piety Mitts +3", augments={'Enhances "Martyr" effect',}},
+    legs="Th. Pant. +3",
+    feet="Ebers Duckbills +3",
+    neck="Jokushu Chain",
+    waist="Luminary Sash",
+    left_ear="Malignance Earring",
+    right_ear="Regal Earring",
+    left_ring="Stikini Ring +1",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Aurist's Cape +1", augments={'Path: A',}},
+}

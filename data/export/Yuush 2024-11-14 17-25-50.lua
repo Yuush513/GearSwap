@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Tizona", augments={'Path: A',}},
+    sub={ name="Machaera +2", augments={'TP Bonus +1000',}},
+    ammo="Pemphredo Tathlum",
+    head="Assim. Keffiyeh +3",
+    body="Hashishin Mintan +2",
+    hands="Hashi. Bazu. +2",
+    legs="Hashishin Tayt +2",
+    feet="Hashi. Basmak +2",
+    neck={ name="Mirage Stole +2", augments={'Path: A',}},
+    waist={ name="Acuity Belt +1", augments={'Path: A',}},
+    left_ear="Regal Earring",
+    right_ear="Digni. Earring",
+    left_ring="Stikini Ring",
+    right_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    back={ name="Aurist's Cape +1", augments={'Path: A',}},
+}

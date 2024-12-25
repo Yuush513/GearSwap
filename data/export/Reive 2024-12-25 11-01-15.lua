@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Rubicundity", augments={'Mag. Acc.+8','"Mag.Atk.Bns."+9','Dark magic skill +8','"Conserve MP"+6',}},
+    sub="Ammurapi Shield",
+    range="Ullr",
+    head="Pixie Hairpin +1",
+    body={ name="Merlinic Jubbah", augments={'Mag. Acc.+29','"Drain" and "Aspir" potency +10','MND+5',}},
+    hands="Leth. Ganth. +3",
+    legs="Leth. Fuseau +3",
+    feet={ name="Merlinic Crackows", augments={'Mag. Acc.+21 "Mag.Atk.Bns."+21','"Drain" and "Aspir" potency +10','Mag. Acc.+13',}},
+    neck="Erra Pendant",
+    waist="Fucho-no-Obi",
+    left_ear="Malignance Earring",
+    right_ear="Crep. Earring",
+    left_ring="Archon Ring",
+    right_ring="Evanescence Ring",
+    back={ name="Aurist's Cape +1", augments={'Path: A',}},
+}

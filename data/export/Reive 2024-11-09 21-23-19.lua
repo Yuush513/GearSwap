@@ -1,0 +1,16 @@
+sets.exported={
+    main={ name="Crocea Mors", augments={'Path: C',}},
+    ammo="Sroda Tathlum",
+    head="Leth. Chappel +2",
+    body={ name="Nyame Mail", augments={'Path: B',}},
+    hands="Jhakri Cuffs +2",
+    legs={ name="Nyame Flanchard", augments={'Path: B',}},
+    feet="Leth. Houseaux +2",
+    neck="Sibyl Scarf",
+    waist="Orpheus's Sash",
+    left_ear={ name="Moonshade Earring", augments={'"Mag.Atk.Bns."+4','TP Bonus +250',}},
+    right_ear="Malignance Earring",
+    left_ring="Cornelia's Ring",
+    right_ring="Epaminondas's Ring",
+    back={ name="Sucellos's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','INT+10','Weapon skill damage +10%','Phys. dmg. taken-10%',}},
+}

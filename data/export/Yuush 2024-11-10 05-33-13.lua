@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Tizona", augments={'Path: A',}},
+    sub="Bunzi's Rod",
+    ammo="Pemphredo Tathlum",
+    head="Hashishin Kavuk +2",
+    body={ name="Amalric Doublet +1", augments={'MP+80','Mag. Acc.+20','"Mag.Atk.Bns."+20',}},
+    hands="Hashi. Bazu. +2",
+    legs={ name="Amalric Slops +1", augments={'MP+80','"Mag.Atk.Bns."+25','Enmity-6',}},
+    feet="Hashi. Basmak +2",
+    neck="Sibyl Scarf",
+    waist="Sacro Cord",
+    left_ear="Regal Earring",
+    right_ear="Friomisi Earring",
+    left_ring={ name="Metamor. Ring +1", augments={'Path: A',}},
+    right_ring="Defending Ring",
+    back={ name="Rosmerta's Cape", augments={'INT+20','Mag. Acc+20 /Mag. Dmg.+20','INT+10','"Mag.Atk.Bns."+10',}},
+}
